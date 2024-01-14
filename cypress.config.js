@@ -1,7 +1,7 @@
 module.exports = {
   video: false,
   e2e: {
-    setupNodeEvents(_on, _config) {},
+    setupNodeEvents(on, config) {},
     supportFile: false,
   },
-};
+}
